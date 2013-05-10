@@ -1,0 +1,5 @@
+www.myDomain.com,CNAME,www.myDomain.points.to.com
+staging.www.myDomain.com,A,myDomain.loadbalancer.amazonaws.com.,Hosted Zone id
+,,
+www.myDomain.com,CNAME,www.myDomain.points.to.com
+staging.www.myDomain.com,A,myDomain.loadbalancer.amazonaws.com.,Hosted Zone id
