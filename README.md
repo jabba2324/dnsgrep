@@ -46,3 +46,7 @@ dnsgrep example.com
 The tool requires the following IAM permissions:
 - `route53:ListHostedZones`
 - `route53:ListResourceRecordSets`
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
