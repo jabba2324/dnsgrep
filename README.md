@@ -9,6 +9,9 @@ A command-line tool to search AWS Route53 for DNS records matching a domain name
 git clone https://github.com/jabba2324/dnsgrep.git
 cd dnsgrep
 
+# Download dependencies
+go mod tidy
+
 # Build the tool
 go build -o dnsgrep
 
